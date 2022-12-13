@@ -28,9 +28,17 @@ Open Insomnia and use the links and methods posted below to test the CRUD functi
 
 
 [GET]       http://localhost:2000/users        // Get the entire list of users
+
+
 [GET]       http://localhost:2000/users/id-nr      // Show a specific user based off of the unique ID.
+
+
 [POST]      http://localhost:2000/users        // Add a user to the database (array) using the code snippet above.
+
+
 [DELETE]    http://localhost:2000/users/id      // Delete a user based off of the ID.
+
+
 [PATCH]     http://localhost:2000/users/id      // Update a user based off of the ID. Use part of the code snippet
                                                   
                                                
