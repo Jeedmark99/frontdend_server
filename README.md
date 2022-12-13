@@ -46,4 +46,3 @@ For example (patch) change the firstName of user John Doe to Jane:
                 {
                      "firstName": "Jane"
                 }
-
